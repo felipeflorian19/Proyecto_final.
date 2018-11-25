@@ -1,0 +1,6 @@
+perro
+gato
+camaleon
+tiburon
+caballo
+vaca
