@@ -1,0 +1,10 @@
+computador
+celular
+android
+iphone
+xboxone
+playstation
+software
+hardware
+televisor
+radio
