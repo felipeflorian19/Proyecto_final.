@@ -2,7 +2,7 @@ import time
 import random
 
 
-CATEGORIAS = ['tecnologia', 'animales']
+CATEGORIAS = ['tecnologia', 'animales', 'paises', 'nombres', 'peliculas' ]
 palabras = []
 
 
